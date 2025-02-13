@@ -3,6 +3,11 @@ body {
     }
     
     h1 {
+    text-align: center;
     color: rgb(107, 0, 128);
     margin-left: 20px;
+    }
+    img{
+        align-items: center;
+        border: 30px;
     }
