@@ -7,7 +7,9 @@ body {
     color: rgb(107, 0, 128);
     margin-left: 20px;
     }
-    img{
+    p{
        text-align: center;
-        border: 30px;
+       font-size: x-large;
+       font-family: Georgia, 'Times New Roman', Times, serif;
+      
     }
